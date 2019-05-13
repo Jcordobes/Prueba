@@ -9,7 +9,7 @@
 ![Imagen 1b](/home/usuario/NetBeansProjects/zoo/img/1b.png)
 
 ## EJERCICIO 2
-
+![Imagen 2a](/home/usuario/NetBeansProjects/zoo/img/2a.png)
 ## EJERCICIO 3
 ![Imagen 3a](/home/usuario/NetBeansProjects/zoo/img/3a.png)
 ## EJERCICIO 4
@@ -17,6 +17,6 @@
 ## EJERCICIO 5
 ![Imagen 5a](/home/usuario/NetBeansProjects/zoo/img/5a.png)
 ## EJERCICIO 6
-
+![Imagen 6a](/home/usuario/NetBeansProjects/zoo/img/6a.png)
 ## EJERCICIO 7
 
